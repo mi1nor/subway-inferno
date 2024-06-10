@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "Bundler",
+        "target": "ESNext",
+        "module": "ESNext",
+        "incremental": true,
+        "outDir": "scripts",
+        "rootDir": "src"
+    }
+}
